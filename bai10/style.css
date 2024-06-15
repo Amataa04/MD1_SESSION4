@@ -1,0 +1,153 @@
+
+.container{
+    background-color: rgb(234, 228, 228);
+    padding: 20px;
+    width: 800px;
+}
+
+.title{
+    display: flex;
+    margin-top: -20px;
+    font-size: 20px;
+}
+
+.form-row{
+    display: flex;
+    justify-content: space-between;
+    gap: 1px;
+}
+
+.form-group {
+    flex: 1;
+    margin-bottom: 15px;
+}
+
+.form-group .firstname{
+    padding: 5px 100px;
+}
+
+.form-group .lastname{
+    padding: 5px 100px;
+}
+
+.input-group-text {
+    background-color: #e9ecef;
+    border-right: 1px solid #ccc;
+    padding: 5px ;
+}
+
+.form-group .username{
+    padding: 5px;
+    margin-left: -5px;
+    padding-right: 572px;
+}
+
+.form-group #email{
+    padding: 5px 0;
+    padding-right: 600px;
+}
+
+.form-group .address{
+    padding: 5px 0;
+    padding-right: 600px;
+}
+
+.form-group .address2{
+    padding: 5px 0;
+    padding-right: 600px;
+}
+
+.form-group #country{
+    padding: 5px 0;
+    padding-right: 150px;
+}
+
+.form-group #state{
+    padding: 5px 0;
+    padding-right: 150px;
+}
+
+.form-group .zip-text{
+    margin-left: 65px;
+}
+
+.form-group .zip{
+    padding: 5px 0;
+    margin-left: 65px;
+}
+
+.group-checkbox .form-group{
+    display: flex;
+}
+
+.form-group #shipping{
+    margin-right: 10px;
+}
+
+.form-group .shipping{
+    margin-top: 5px;
+}
+
+.form-group #save{
+    margin-right: 10px;
+}
+
+.form-group .save{
+    margin-top: 5px;
+}
+
+.group-radio .form-group{
+    display: flex;
+}
+
+.form-group #card{
+    margin-bottom: 10px;
+}
+
+.namecard{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.form-group #namecard{
+    padding: 5px 200px 5px 0;
+}
+
+.form-group .note{
+    font-size: 15px;
+    color: rgb(141, 137, 137)
+}
+
+.cvv{
+    display: flex;
+}
+
+.form-group #cvv{
+    padding: 5px 10px 5px 0;
+}
+
+.form-group .cvv-text{
+    margin-right: 435px;
+}
+
+.form-group #button{
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.form-group #button:hover{
+    background-color: #0056b3;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+

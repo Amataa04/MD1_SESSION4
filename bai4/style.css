@@ -1,0 +1,16 @@
+.title{
+    color:rgb(0, 81, 139);
+}
+
+.content{
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.example{
+    background-color: lightyellow;
+    border-left: 10px solid rgb(216, 216, 8);
+    padding: 10px;
+    font-size: 17px;
+    font-weight: 600;
+}

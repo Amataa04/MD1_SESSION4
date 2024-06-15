@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+.title{
+    padding: 10px;
+    color: yellow;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+}
+
+.paragraph{
+    padding: 10px;
+    color: blue;
+}
+
+.paragraph2{
+    padding: 10px;
+    color: red;
+}
+
+.tip{
+    background-color: lightyellow;
+    padding: 10px;
+}
